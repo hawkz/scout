@@ -45,3 +45,5 @@ directory.
 
 # Using the Client
 
+The Exchange query model is not always intuitive. There are annotated examples of querying for folder
+and calendar information and test script to demonstrate putting it all together.
