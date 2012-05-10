@@ -1,0 +1,4 @@
+scout
+=====
+
+Python Outlook client
