@@ -10,7 +10,7 @@ Exchange's SOAP implementation is not 100% compatible with suds or any other too
  - Exchange hosts its WSDL using password protection. Normally, the WSDL can be
    obtained by querying:
 
-       https://${hostname}/EWS/Exchange.asmx
+         https://${hostname}/EWS/Exchange.asmx
 
    However, suds doesn't pass http authentication headers (including "Authentication") 
    to HttpTransport.open() (see http.py) when retrieving WSDL files. It's possible to 
