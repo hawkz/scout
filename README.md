@@ -40,7 +40,7 @@ directory.
 
     client = make_client('user@example.com',
                          'secretpassword',
-                         'https://example.com//EWS/Exchange.asmx',
+                         'https://example.com/EWS/Exchange.asmx',
                          '/path/to/resources/')
 
 # Using the Client
