@@ -1,7 +1,9 @@
 scout
 =====
 
-An Exchange SOAP client using Python suds.
+An Exchange SOAP client using Python [suds][1].
+
+ [1]: https://fedorahosted.org/suds/
 
 # Background
 
